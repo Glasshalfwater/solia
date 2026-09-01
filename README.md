@@ -6,10 +6,22 @@ This originally started off as an idea for a birthday gift, however I realized t
 ### Images:
 
 PCB Bottom View:
-!(assets/images/tamagotchi_solia_botton_view.png)
+!(assets\images\tamagotchi_solia_bottom_view.png)
 
 PCB Top View:
-!(assets/images/tamagotchi_solia_botton_view.png)
+!(assets\images\tamagotchi_solia_botton_view.png)
+
+Assembly Isometric View:
+!(assets\images\solia_assembly_isometric_view.png)
+
+Assembly Top View:
+!(assets\images\solia_assembly_top_view.png)
+
+Assembly Bottom View:
+!(assets\images\solia_assembly_bottom_view.png)
+
+Assembly Side View:
+!(assets\images\solia_assembly_top_view.png)
  
 ### Component List:
 |Name                                                                |Quantity                                           |Price                                                                                            |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |FIELD5|
