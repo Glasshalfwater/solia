@@ -5,23 +5,29 @@ This originally started off as an idea for a birthday gift, however I realized t
 
 ### Images:
 
+Wiring Schematic:
+![](/assets/images/solia_schematic.png)
+
 PCB Bottom View:
-!(assets/images/tamagotchi_solia_bottom_view.png)
+![](/assets/images/tamagotchi_solia_bottom_view.png)
 
 PCB Top View:
-!(assets/images/tamagotchi_solia_botton_view.png)
+![](/assets/images/tamagotchi_solia_botton_view.png)
 
 Assembly Isometric View:
-!(assets/images/solia_assembly_isometric_view.png)
+![](/assets/images/solia_assembly_isometric_view.png)
 
 Assembly Top View:
-!(assets/images/solia_assembly_top_view.png)
+![](/assets/images/solia_assembly_top_view.png)
 
 Assembly Bottom View:
-!(assets/images/solia_assembly_bottom_view.png)
+!(/assets/images/solia_assembly_bottom_view.png)
 
 Assembly Side View:
-!(assets/images/solia_assembly_top_view.png)
+!(/assets/images/solia_assembly_top_view.png)
+
+### Onshape Link:
+[Onshape Document :D](https://cvilleschools.onshape.com/documents/4abba4c252e7ebcaf10d09a4/w/88913430d3dbe53bf4207c72/e/fed4882613c54d204ad1a2a2?renderMode=0&leftPanel=false&uiState=6a964f6fc21300446a4483bd) 
  
 ### Component List:
 |Name                                                                |Quantity                                           |Price                                                                                            |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |FIELD5|
