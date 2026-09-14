@@ -1,0 +1,4 @@
+# Ignore local build folders and binaries
+/build/
+*.hex
+*.elf
