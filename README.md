@@ -15,10 +15,10 @@ PCB Top Layer:
 ![](/assets/images/solia_pcb_top_view.png)
 
 PCB Bottom View:
-![](/assets/images/solia_pcb_bottom_view.png)
+![](/assets/images/solia_pcb_bottom_side.png)
 
 PCB Top View:
-![](/assets/images/solia_pcb_top_view.png)
+![](/assets/images/solia_pcb_top_side.png)
 
 Assembly Isometric View:
 ![](/assets/images/solia_assembly_isometric_view.png)
