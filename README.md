@@ -8,11 +8,17 @@ This originally started off as an idea for a birthday gift, however I realized t
 Wiring Schematic:
 ![](/assets/images/solia_schematic.png)
 
+PCB Bottom Layer:
+![](/assets/images/solia_pcb_bottom_view.png)
+
+PCB Top Layer:
+![](/assets/images/solia_pcb_top_view.png)
+
 PCB Bottom View:
-![](/assets/images/tamagotchi_solia_bottom_view.png)
+![](/assets/images/solia_pcb_bottom_view.png)
 
 PCB Top View:
-![](/assets/images/tamagotchi_solia_botton_view.png)
+![](/assets/images/solia_pcb_top_view.png)
 
 Assembly Isometric View:
 ![](/assets/images/solia_assembly_isometric_view.png)
